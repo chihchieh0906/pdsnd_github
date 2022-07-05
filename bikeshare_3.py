@@ -9,6 +9,7 @@ import time
 import pandas as pd
 import numpy as np
 
+    # Getting data from respective csv files
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new_york_city': 'new_york_city.csv',
               'washington': 'washington.csv' }
